@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pyTorchAutoForge"
+		},
+		{
+			"path": "../torchAutoForge-deploy"
+		}
+	],
+	"settings": {}
+}
